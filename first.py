@@ -1,7 +1,6 @@
-
-x=int(input("Enter the first number: "))
-y=int(input("Enter the second number: "))
-sum=x+y
-mul=x*y
-print("The Sum of two numbers are: ",sum)
-print("The Product of two numbers are: ",mul)
+n1=5
+n2=8
+multiply=n1*n2
+sum=n1+n2
+print("multiplication",multiply)
+print("addition",sum)
